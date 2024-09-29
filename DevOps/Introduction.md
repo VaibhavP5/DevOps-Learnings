@@ -25,15 +25,20 @@ Here are the primary reasons **DevOps** is widely adopted in modern software dev
 ### :key: Key Components of DevOps
 **1. Continuous Integration (CI)**
 Developers regularly add their code changes to a shared repository. This automatically triggers tests and builds, helping to catch issues early.
-**Continuous Delivery (CD)**
+
+**2. Continuous Delivery (CD)**
 Ensures that changes to the codebase can be released into production or staging environments automatically after passing tests.
-**Automation**
+
+**3. Automation**
 Automation is a core DevOps principle. It handles tasks like setting up infrastructure and deploying code, reduces human errors and speeding up processes.
-**Monitoring and Feedback**
+
+**4. Monitoring and Feedback**
 DevOps focuses on real-time monitoring and feedback, allowing teams to spot problems early and continuously improve system performance.
-**Infrastructure as Code (IaC)**
+
+**5. Infrastructure as Code (IaC)**
 With tools like Terraform and Ansible, you can define and set up infrastructure using code, making sure that everything stays consistent across different environments.
-**Containerization and Orchestration**
+
+**6. Containerization and Orchestration**
 Tools like Docker and Kubernetes package applications into containers, allowing them to run consistently across various environments.
 
 ### :chart_with_upwards_trend: DevOps Lifecycle
