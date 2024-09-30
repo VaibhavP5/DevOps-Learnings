@@ -47,9 +47,9 @@ This is <mark>Highlighted Word</mark>.
 This is ~~Strikethrough~~.
 
 - **Superscript:** **`x<sup>2</sup>+y<sup>2</sup>=?`**
-        - Result: **x^2^+y^2^ = ?**
+        - Result: **x<sup>2</sup>+y<sup>2</sup>=?**
 - **Subscript:** `H<sub>2</sub>O`
-        - Result: **H~2~O**
+        - Result: **H<sub>2</sub>O**
 
 ---
 
@@ -99,11 +99,12 @@ print(name)
 ``` >>> Another Nested Line```
 - **Result:**
 
-> This is BlockQuotes
+> This is BlockQuotes  
 
->> This is Nested BlockQuotes
+>> This is Nested BlockQuotes  
 
->>> Another Nested Line
+>>> Another Nested Line  
+
 
 ---
 
