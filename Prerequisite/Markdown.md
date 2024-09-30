@@ -33,27 +33,37 @@ Markdown is a lightweight markup language that makes it easy to create formatted
     This is ***This is Bold + Italic Text***
     This is ==Highlighted Word==
     This is ~~Strikethrough~~
+
 ```
 - **Result:**
 This is **Bold Text**.
+
 This is *Italic Text*.
+
 This is ***This is Bold + Italic Text***.
-This is ==Highlighted Word==.
+
+This is <mark>Highlighted Word</mark>.
+
 This is ~~Strikethrough~~.
 
-    - **Superscript:** `x^2^+y^2^=?`
+- **Superscript:** **`x<sup>2</sup>+y<sup>2</sup>=?`**
         - Result: **x^2^+y^2^ = ?**
-    - **Subscript:** `H~2~O`
+- **Subscript:** `H<sub>2</sub>O`
         - Result: **H~2~O**
 
 ---
 
 ## :eyes: Emojis
 - **Syntax with Output:** 
+
 `:smile:` : :smile:
+
 `:angry:` : :angry:
+
 `:rocket:` : :rocket:
+
 `:cloud:` : :cloud:
+
 - Checkout All Emoji Name list here: [Markdown Emoji List](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 ---
@@ -88,8 +98,11 @@ print(name)
 ``` >> This is Nested BlockQuotes```
 ``` >>> Another Nested Line```
 - **Result:**
+
 > This is BlockQuotes
+
 >> This is Nested BlockQuotes
+
 >>> Another Nested Line
 
 ---
@@ -111,6 +124,7 @@ print(name)
 
 ## Lists
 ### Unordered List
+
 - **Syntax:**
 ```
 - Item 1
@@ -123,6 +137,7 @@ print(name)
             2. In Words
 ```
 - **Result:**
+
 - Item 1
 - Item 2
     - Subitem 2.1
@@ -133,6 +148,7 @@ print(name)
             2. In Words
 
 ### Ordered List
+
 - **Syntax:**
 ```
 1. First Item
@@ -140,6 +156,7 @@ print(name)
     1. Subitem 2.1
 ```
 - **Result:**
+
 1. First Item
 2. Second Item
     1. Subitem 2.1
