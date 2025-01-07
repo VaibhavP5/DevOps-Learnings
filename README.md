@@ -29,4 +29,4 @@ Feel free to open issues, submit PRs, or suggest topics you'd like to see covere
 
 ## :mailbox_with_mail: Connect With Me
 - **Twitter:** [@vaibhavstwts](https://x.com/vaibhavstwts)
-- **Blog:** <https://hashnode.com/@vaibhavp04>
+- **Blog:** <[https://hashnode.com/@vaibhavp04](https://vaibhavindev.hashnode.dev/)>
